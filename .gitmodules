@@ -1,3 +1,6 @@
 [submodule "laba1-OOP"]
 	path = laba1-OOP
 	url = https://github.com/23yulia03/laba1-OOP.git
+[submodule "laba1-OOP-zad2"]
+	path = laba1-OOP-zad2
+	url = https://github.com/23yulia03/laba1-OOP-zad2.git
